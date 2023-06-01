@@ -1,0 +1,4 @@
+class BaseBall
+{
+public:
+};
